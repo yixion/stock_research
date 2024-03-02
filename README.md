@@ -16,5 +16,5 @@ git clone https://github.com/yixion/stock_research.git
 ```
 Command line "git init" is for creating the git repository.  
 The second line is for copying the file in my repository.
-### Open the 股票學習地圖(一).html, then you can choose which my review diagram of the book you want.
+### Open the main_page.html, then you can choose which my review diagram of the book you want.
 
